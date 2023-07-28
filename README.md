@@ -35,7 +35,8 @@ HTML
 CSS
 JavaScript
 Credits
-The Drum Kit Web Application was inspired by the <b> JavaScript30 </b> course by <b> Wes Bos</b>.
+
+The Drum Kit Web Application was inspired by the *JavaScript30* course by *Wes Bos*.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
