@@ -35,5 +35,5 @@ HTML
 CSS
 JavaScript
 
-#Credits
+# Credits
 The Drum Kit Web Application was inspired by the **JavaScript30** course by **Wes Bos**.
